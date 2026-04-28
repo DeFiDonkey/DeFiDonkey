@@ -1,6 +1,6 @@
 ### Currently
 
-- **Joinn.io** — AI-Native Lead Developer / AI Automation Engineer 5+ years
+- **Joinn.io** AI-Native Lead Developer / AI Automation Engineer 5+ years
 - Tokenized real-world assets, smart wallets, account abstraction across Polygon / Base / Ethereum / Gnosis
 
 ### Recent open-source contributions
