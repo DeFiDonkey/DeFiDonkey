@@ -1,6 +1,6 @@
 ### Currently
 
-- **Joinn.io** — AI-Native Lead Developer / AI Automation Engineer
+- **Joinn.io** — AI-Native Lead Developer / AI Automation Engineer 5+ years
 - Tokenized real-world assets, smart wallets, account abstraction across Polygon / Base / Ethereum / Gnosis
 
 ### Recent open-source contributions
@@ -15,4 +15,3 @@
 - Stack: TypeScript / Python / SQL / Solidity, Postgres, AWS / Vercel / Railway / DigitalOcean, Docker
 - Most recent work is private; [gmiai.com](https://www.gmiai.com/) is a public sample.
 
-📬 s@lfg.mv
